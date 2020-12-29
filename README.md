@@ -4,3 +4,5 @@ Simple proyecto de pruebas que muestra la implementación de la arquitectura de 
 Capa de Negocio
 Capa de presentación 
 Capa de acceso a datos 
+
+Algo muy simple.
